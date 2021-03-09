@@ -1,0 +1,2 @@
+E:\Github_Projects\Marco_Polo\Debug\Marco_Polo.exe
+E:\Github_Projects\Marco_Polo\Debug\Marco_Polo.pdb
